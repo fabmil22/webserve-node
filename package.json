@@ -1,0 +1,15 @@
+{
+  "name": "webserve",
+  "version": "1.0.0",
+  "description": "creacion de un webserve  con node",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fabian Miliani",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "express": "^4.16.3"
+  }
+}
